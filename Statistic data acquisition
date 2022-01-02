@@ -1,1 +1,62 @@
+import pandas as pd
+import csv
+import os
+import bs4
+from bs4 import BeautifulSoup
+import numpy as np
+from requests.api import head
+
+import scipy as sc
+import requests
+import json
+
+
+base_url = 'https://understat.com/league'
+leagues = ['La_liga', 'EPL', 'Bundesliga', 'Serie_A', 'Ligue_1', 'RFPL']
+seasons = ['2019', '2020', '2021']
+
+url = base_url+'/'+leagues[4]+'/'+seasons[1]
+res = requests.get(url)
+soup = BeautifulSoup(res.content, "html.parser")
+
+# Based on the structure of the webpage, I found that data is in the JSON variable, under 'script' tags
+scripts = soup.find_all('script')
+
+
+
+string_with_json_obj = ''
+
+# Find data for players
+for el in scripts:
+    if 'playersData' in str(el):
+      string_with_json_obj = str(el).strip()
+      
+# print(string_with_json_obj)
+
+# strip unnecessary symbols and get only JSON data
+ind_start = string_with_json_obj.index("('")+2
+ind_end = string_with_json_obj.index("')")
+json_data = string_with_json_obj[ind_start:ind_end]
+
+json_data = json_data.encode('utf8').decode('unicode_escape')
+data=json.loads(json_data)
+
+
+players=[]
+
+for i in range(len(data)):
+    
+    for key, value in data[i].items():
+    # do something with value
+        data[i][key] = [data[i][key]]
+
+
+
+
+for i in range(len(data)):
+    players.append(pd.DataFrame.from_dict(data[i]))
+
+df=pd.concat(players)
+
+
 
