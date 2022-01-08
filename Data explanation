@@ -1,14 +1,13 @@
 
-Data explaning:
+Data explanation:
 
  'Player'- Player name
- 'Team' 
- 'League'
+ 'Team' - The team of the player
+ 'League' - The league of the player
  'Version' - FIFA card version
  'OVR' - Overall FIFA raiting
  'POS' - The postion of the player 
  'BIN' - The Price of the player in the game
- 
  'PAC' -The Pace score of the player (1-99)
  'SHO'- The shooting score of the player (1-99)
  'PAS'- The shooting score of the player (1-99)
