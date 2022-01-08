@@ -4,59 +4,120 @@ import os
 import bs4
 from bs4 import BeautifulSoup
 import numpy as np
+from pandas.core import series
+
 from requests.api import head
 
 import scipy as sc
 import requests
 import json
+from unidecode import unidecode
 
-
+#Definnig the leagues and the seasons
 base_url = 'https://understat.com/league'
-leagues = ['La_liga', 'EPL', 'Bundesliga', 'Serie_A', 'Ligue_1', 'RFPL']
+leagues = ['La_liga', 'EPL', 'Bundesliga', 'Serie_A', 'Ligue_1']
+fifa_leagues= ['ESP 1', 'ENG 1', 'GER 1', 'ITA 1', 'FRA 1']
 seasons = ['2019', '2020', '2021']
 
-url = base_url+'/'+leagues[4]+'/'+seasons[1]
-res = requests.get(url)
-soup = BeautifulSoup(res.content, "html.parser")
 
-# Based on the structure of the webpage, I found that data is in the JSON variable, under 'script' tags
-scripts = soup.find_all('script')
-
-
-
-string_with_json_obj = ''
-
-# Find data for players
-for el in scripts:
-    if 'playersData' in str(el):
-      string_with_json_obj = str(el).strip()
-      
-# print(string_with_json_obj)
-
-# strip unnecessary symbols and get only JSON data
-ind_start = string_with_json_obj.index("('")+2
-ind_end = string_with_json_obj.index("')")
-json_data = string_with_json_obj[ind_start:ind_end]
-
-json_data = json_data.encode('utf8').decode('unicode_escape')
-data=json.loads(json_data)
-
-
-players=[]
-
-for i in range(len(data)):
+# Iterating througth 3 seasons statistical data 
+for x in range(3):
+    statistic_year=[]
     
-    for key, value in data[i].items():
-    # do something with value
-        data[i][key] = [data[i][key]]
+    # Iterating througth 5 big leagues
+    for y in range(5):
+
+
+
+        # Matching the url for the league and season 
+        url = base_url+'/'+leagues[y]+'/'+seasons[x]
+        res = requests.get(url)
+        soup = BeautifulSoup(res.content, "html.parser")
+
+        # Based on the structure of the webpage, I found that data is in the JSON variable, under 'script' tags
+        scripts = soup.find_all('script')
+
+
+
+        string_with_json_obj = ''
+
+        # Find data for players
+        for el in scripts:
+            if 'playersData' in str(el):
+                string_with_json_obj = str(el).strip()
+            
+        
+
+        # Strip unnecessary symbols and get only JSON data
+        ind_start = string_with_json_obj.index("('")+2
+        ind_end = string_with_json_obj.index("')")
+        json_data = string_with_json_obj[ind_start:ind_end]
+
+        json_data = json_data.encode('utf8').decode('unicode_escape')
+        data=json.loads(json_data)
+
+
+        players=[]
+
+        # Creating a dict from the jason file 
+        for i in range(len(data)):
+            
+            for key, value in data[i].items():
+            
+                data[i][key] = [data[i][key]]
 
 
 
 
-for i in range(len(data)):
-    players.append(pd.DataFrame.from_dict(data[i]))
+        for i in range(len(data)):
+            players.append(pd.DataFrame.from_dict(data[i]))
 
-df=pd.concat(players)
+        df=pd.concat(players,ignore_index=True)
+        df.rename(columns={ 'player_name' :'Player'},inplace=True)
+        df.rename(columns={ 'team_title' :'Team'},inplace=True)
+
+
+        c=df.shape[0]
+        # Cleaning Vowels from players names 
+        for i in range(c):
+            df.loc[i,'Player']= unidecode(str(df.loc[i,'Player']))
+            # Spliting rows where the player played in two differnt teams througth the season
+            if((',' in df.loc[i,'Team'])):
+                list1=str(df.loc[i,'Team']).split(',')
+                df_splitted=df.loc[i,:].copy()
+                df.loc[i,'Team']=list1[0]
+                
+                df_splitted['Team']=list1[1]
+                
+                df=df.append(df_splitted,ignore_index=True)
+                
+
+    
+               
+                
+        # Macthing leagues names 
+        league_label=[fifa_leagues[y] for i in range(df.shape[0])]
+        df['League']=league_label    
+
+        statistic_year.append(df)    
+        
+    df_included=pd.concat(statistic_year,ignore_index=True)    
+    
+    # Writing to csv
+    file_name1='Player Statistic'+" "+seasons[x]+".csv"
+    f=open(file_name1,'w')
+    df_included.to_csv(path_or_buf=file_name1)
+    f.close()
+
+
+
+
+
+
+
+
+
+
 
 
 
