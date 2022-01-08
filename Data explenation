@@ -1,0 +1,39 @@
+
+Data explaning:
+
+ 'Player'- Player name
+ 'Team' 
+ 'League'
+ 'Version' - FIFA card version
+ 'OVR' - Overall FIFA raiting
+ 'POS' - The postion of the player 
+ 'BIN' - The Price of the player in the game
+ 
+ 'PAC' -The Pace score of the player (1-99)
+ 'SHO'- The shooting score of the player (1-99)
+ 'PAS'- The shooting score of the player (1-99)
+ 'DRI'- The shooting score of the player (1-99)
+ 'DEF'- The shooting score of the player (1-99)
+ 'PHY'- The shooting score of the player (1-99)
+ 'S/M'- The skill moves score of the player (1-5)
+ 'W/F'- The week foot score of the player (1-5)
+ 'W/Rs'- The Work Rates (Defense/Attack) of the player (H-High , M-Medium , L-Low)
+ 'Foot'- The strong foot of the player
+ 'Stats'- Ingame all stat included 
+ 'tots'- Lable - If the player is in the Team Of The Season , 1 if yes 0 otherwise.
+ 'special cards'- Amount of speical FIFA cards that the player recived througth the season
+ Real life statisical data
+ 'games'- Amount of games that a player played 
+ 'time' - Amount of minutes that a player played 
+ 'goals' - Amount of goals that a player scored 
+ 'xG'- Amount of expected goals for a player to score (statistical measurement of the quality of goalscoring chances and the likelihood of them being scored)
+ 'assists' - Amount of assists that a player gave 
+ 'xA'-  Amount of expected assists for a player to give (statistical measurement of the likelihood that a given pass will become a goal assist)
+ 'shots' -  Amount of shots that a player shooted
+ 'key_passes'-  Amount of key passes that a player scored 
+ 'yellow_cards' - Amount of yellow cards that the player got
+ 'red_cards' -  Amount of red cards that the player got
+ 'npg' -  Amount of non penalty goals that a player scored 
+ 'npxG' - Amount of non penalty expected goals for a player to score (statistical measurement of the quality of goalscoring chances and the likelihood of them being scored)
+ 'xGChain' - xGchain measures expected goals after a possession in which the player is involved
+ 'xGBuildup' - xGBuildup designed to reward players who are integral parts of their team’s buildup play
