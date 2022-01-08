@@ -146,6 +146,10 @@ print(df_combained.columns)
 #print(len(problamatic_players2))
 
     
+file_name1="FIFA 20 + Statistical data 2020.csv"
+f=open(file_name1,'w')
+df_combained.to_csv(path_or_buf=file_name1)
+f.close()    
   
 
 
