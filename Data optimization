@@ -140,7 +140,7 @@ for i in range(len(problamatic_players)):
 #combining the stat and the fifa data frames
 df_combained=pd.merge(df_copy_major,df_Stat)
 problamatic_players2=list(set(list(df_Stat['Player']))-set(list(df_combained['Player'])))
-df_combained.drop(labels=['Unnamed: 0','id','position'],axis=1,inplace=True)
+df_combained.drop(labels=['Unnamed: 0','id','position','BIN'],axis=1,inplace=True)
 
 print(df_combained.columns)
 #print(len(problamatic_players2))
