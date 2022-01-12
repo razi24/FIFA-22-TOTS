@@ -1,0 +1,103 @@
+#,Team,Pl,W,D,L,F,A,GD,Pts,Last 6,League
+1,Real Madrid,21,15,4,2,45,18,27,49,,ESP 1
+2,Sevilla,20,13,5,2,31,13,18,44,,ESP 1
+3,Real Betis,20,10,4,6,33,24,9,34,,ESP 1
+4,Atletico Madrid,20,9,6,5,33,24,9,33,,ESP 1
+5,Real Sociedad,20,9,6,5,22,21,1,33,,ESP 1
+6,Barcelona,20,8,8,4,31,23,8,32,,ESP 1
+7,Rayo Vallecano,20,9,4,7,27,21,6,31,,ESP 1
+8,Villarreal,20,7,8,5,33,22,11,29,,ESP 1
+9,Athletic Bilbao,21,6,10,5,20,17,3,28,,ESP 1
+10,Valencia,20,7,7,6,32,32,0,28,,ESP 1
+11,Espanyol,19,7,5,7,22,22,0,26,,ESP 1
+12,Osasuna,20,6,7,7,20,25,-5,25,,ESP 1
+13,Granada,20,5,9,6,24,27,-3,24,,ESP 1
+14,Celta Vigo,20,6,5,9,22,23,-1,23,,ESP 1
+15,Real Mallorca,20,4,8,8,17,30,-13,20,,ESP 1
+16,Getafe,20,4,6,10,13,21,-8,18,,ESP 1
+17,Alaves,20,4,5,11,16,30,-14,17,,ESP 1
+18,Elche,19,3,7,9,18,27,-9,16,,ESP 1
+19,Cadiz,20,2,8,10,15,34,-19,14,,ESP 1
+20,Levante,20,1,8,11,21,41,-20,11,,ESP 1
+
+1,Manchester City,21,17,2,2,53,13,40,53,,ENG 1
+2,Chelsea,21,12,7,2,45,16,29,43,,ENG 1
+3,Liverpool,20,12,6,2,52,18,34,42,,ENG 1
+4,Arsenal,20,11,2,7,33,25,8,35,,ENG 1
+5,West Ham United,20,10,4,6,37,27,10,34,,ENG 1
+6,Tottenham Hotspur,18,10,3,5,23,20,3,33,,ENG 1
+7,Manchester United,19,9,4,6,30,27,3,31,,ENG 1
+8,Wolverhampton Wanderers,19,8,4,7,14,14,0,28,,ENG 1
+9,Brighton and Hove Albion,19,6,9,4,20,20,0,27,,ENG 1
+10,Leicester City,18,7,4,7,31,33,-2,25,,ENG 1
+11,Crystal Palace,20,5,8,7,29,30,-1,23,,ENG 1
+12,Brentford,19,6,5,8,23,26,-3,23,,ENG 1
+13,Aston Villa,19,7,1,11,25,30,-5,22,,ENG 1
+14,Southampton,19,4,9,6,20,29,-9,21,,ENG 1
+15,Everton,18,5,4,9,23,32,-9,19,,ENG 1
+16,Leeds United,19,4,7,8,21,37,-16,19,,ENG 1
+17,Watford,18,4,1,13,22,36,-14,13,,ENG 1
+18,Burnley,17,1,8,8,16,27,-11,11,,ENG 1
+19,Newcastle United,19,1,8,10,19,42,-23,11,,ENG 1
+20,Norwich City,19,2,4,13,8,42,-34,10,,ENG 1
+
+1,Bayern Munich,18,14,1,3,57,18,39,43,,GER 1
+2,Borussia Dortmund,18,12,1,5,44,28,16,37,,GER 1
+3,Hoffenheim,18,9,4,5,38,27,11,31,,GER 1
+4,SC Freiburg,18,8,6,4,30,18,12,30,,GER 1
+5,Bayer Leverkusen,18,8,5,5,42,30,12,29,,GER 1
+6,Cologne,18,7,7,4,30,28,2,28,,GER 1
+7,1. FC Union Berlin,18,7,7,4,25,23,2,28,,GER 1
+8,Eintracht Frankfurt,18,7,6,5,29,27,2,27,,GER 1
+9,RB Leipzig,18,7,4,7,34,23,11,25,,GER 1
+10,Mainz,18,7,3,8,26,21,5,24,,GER 1
+11,Bochum,18,7,2,9,17,26,-9,23,,GER 1
+12,M'gladbach,18,6,4,8,24,33,-9,22,,GER 1
+13,Hertha Berlin,18,6,3,9,21,38,-17,21,,GER 1
+14,Wolfsburg,18,6,2,10,17,30,-13,20,,GER 1
+15,Stuttgart,18,4,6,8,22,31,-9,18,,GER 1
+16,FC Augsburg,18,4,6,8,18,29,-11,18,,GER 1
+17,Arminia Bielefeld,18,3,8,7,16,24,-8,17,,GER 1
+18,Greuther Furth,18,1,3,14,13,49,-36,6,,GER 1
+
+1,Inter Milan,20,15,4,1,51,16,35,49,,ITA 1
+2,AC Milan,21,15,3,3,46,23,23,48,,ITA 1
+3,Napoli,21,13,4,4,37,15,22,43,,ITA 1
+4,Atalanta,20,12,5,3,44,26,18,41,,ITA 1
+5,Juventus,21,11,5,5,32,21,11,38,,ITA 1
+6,Fiorentina,20,10,2,8,34,29,5,32,,ITA 1
+7,Roma,21,10,2,9,35,28,7,32,,ITA 1
+8,Lazio,21,9,5,7,43,39,4,32,,ITA 1
+9,Torino,20,8,4,8,27,19,8,28,,ITA 1
+10,Sassuolo,21,7,7,7,36,33,3,28,,ITA 1
+11,Empoli,21,8,4,9,34,42,-8,28,,ITA 1
+12,Bologna,19,8,3,8,27,31,-4,27,,ITA 1
+13,Verona,21,7,6,8,37,35,2,27,,ITA 1
+14,Udinese,19,4,8,7,28,34,-6,20,,ITA 1
+15,Sampdoria,21,5,5,11,28,38,-10,20,,ITA 1
+16,Spezia,21,5,4,12,21,41,-20,19,,ITA 1
+17,Venezia,20,4,5,11,18,37,-19,17,,ITA 1
+18,Cagliari,20,2,7,11,19,41,-22,13,,ITA 1
+19,Genoa,21,1,9,11,20,39,-19,12,,ITA 1
+20,Salernitana,19,3,2,14,13,43,-30,11,,ITA 1
+
+1,Paris Saint-Germain,20,14,5,1,40,18,22,47,,FRA 1
+2,Nice *,20,11,4,5,32,17,15,36,,FRA 1
+3,Marseille,19,10,6,3,27,15,12,36,,FRA 1
+4,Rennes,20,9,4,7,34,19,15,31,,FRA 1
+5,Montpellier,19,9,4,6,33,24,9,31,,FRA 1
+6,RC Lens,20,8,6,6,34,28,6,30,,FRA 1
+7,Monaco,20,8,6,6,29,23,6,30,,FRA 1
+8,Strasbourg,19,8,5,6,36,24,12,29,,FRA 1
+9,Nantes,20,8,5,7,25,23,2,29,,FRA 1
+10,Lille,19,7,7,5,26,26,0,28,,FRA 1
+11,Lyon *,19,6,8,5,27,27,0,25,,FRA 1
+12,Angers,19,6,7,6,26,27,-1,25,,FRA 1
+13,Brest,20,6,7,7,26,31,-5,25,,FRA 1
+14,Reims,20,5,9,6,22,22,0,24,,FRA 1
+15,Clermont,19,4,6,9,20,32,-12,18,,FRA 1
+16,Troyes,19,4,5,10,18,28,-10,17,,FRA 1
+17,Bordeaux,20,3,8,9,30,44,-14,17,,FRA 1
+18,Lorient,19,3,7,9,15,31,-16,16,,FRA 1
+19,Metz,20,3,7,10,23,41,-18,16,,FRA 1
+20,St Etienne,19,2,6,11,17,40,-23,12,,FRA 1

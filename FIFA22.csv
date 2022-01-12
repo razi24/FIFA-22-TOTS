@@ -456,7 +456,7 @@ Frenkie de Jong,FC Barcelona,ESP 1,ucllive,89,CM,381K,85,72,87,90,81,81,4,3,H/M,
 
 Marco Reus,Borussia Dortmund,GER 1,ucllive,89,CAM,285K,82,87,87,89,51,71,4,4,H/M,Right,"2,192"
 
-Matthijs de Ligt,Piemonte Calcio,ITA 1,ucllive,89,CB,,80,62,68,75,87,90,2,3,M/H,Right,"2,049"
+Matthijs de Ligt,Juventus,ITA 1,ucllive,89,CB,,80,62,68,75,87,90,2,3,M/H,Right,"2,049"
 
 Keylor Navas,Paris Saint-Germain,FRA 1,goldif,89,GK,44.8K,90,86,77,90,55,88,1,3,M/M,Right,"1,006"
 
@@ -634,7 +634,7 @@ Phil Foden,Manchester City,ENG 1,rulebreakers,88,CAM,241K,88,88,85,83,59,61,4,3,
 
 Marquinhos,Paris Saint-Germain,FRA 1,goldif,88,CB,203K,82,54,77,76,90,83,3,3,M/H,Right,"2,069"
 
-Wojciech Szczesny,Piemonte Calcio,ITA 1,goldif,88,GK,38K,87,84,75,89,50,88,1,3,M/M,Right,903
+Wojciech Szczesny,Juventus,ITA 1,goldif,88,GK,38K,87,84,75,89,50,88,1,3,M/M,Right,903
 
 Thomas Muller,Bayern München,GER 1,goldif,88,CAM,38.5K,69,85,84,81,57,73,3,4,H/H,Right,"2,118"
 
@@ -768,7 +768,7 @@ Yann Sommer,Borussia Mgladbach,GER 1,goldif,87,GK,33K,83,85,86,88,52,88,1,4,M/M,
 
 Gaetan Laborde,Stade Rennais,FRA 1,potmligue1,87,ST,,86,86,85,88,47,89,3,4,H/H,Left,"2,204"
 
-Houssem Aouar,Olympique Lyonnais,FRA 1,winterwildcard,87,CM,,86,86,86,90,70,77,4,4,H/M,Right,"2,295"
+Houssem Aouar,Lyon,FRA 1,winterwildcard,87,CM,,86,86,86,90,70,77,4,4,H/M,Right,"2,295"
 
 Leonardo Spinazzola,Roma FC,ITA 1,winterwildcard,87,LWB,169K,96,68,80,84,82,78,5,4,H/H,Right,"2,197"
 
@@ -798,7 +798,7 @@ Bernardo Silva,Manchester City,ENG 1,goldif,87,CM,59K,82,78,84,92,55,68,4,3,H/H,
 
 Lukas Nmecha,VfL Wolfsburg,GER 1,totgsucl,87,ST,,90,87,74,88,47,87,3,4,M/M,Right,"2,137"
 
-Federico Chiesa,Piemonte Calcio,ITA 1,totgsucl,87,RW,162K,94,87,80,92,52,78,4,4,H/M,Right,"2,165"
+Federico Chiesa,Juventus,ITA 1,totgsucl,87,RW,162K,94,87,80,92,52,78,4,4,H/M,Right,"2,165"
 
 Andreas Christensen,Chelsea,ENG 1,totgsucl,87,CB,89K,80,37,72,74,88,81,2,3,L/M,Right,"1,880"
 
@@ -814,7 +814,7 @@ Wissam Ben Yedder,AS Monaco,FRA 1,signature,87,ST,580K,87,88,82,90,41,74,4,5,H/L
 
 Julian Draxler,Paris Saint-Germain,FRA 1,moments,87,CAM,,85,85,86,88,70,71,4,5,M/M,Right,"2,254"
 
-Morata,Piemonte Calcio,ITA 1,flashback,87,ST,,90,85,77,85,35,82,3,4,M/M,Right,"2,069"
+Morata,Juventus,ITA 1,flashback,87,ST,,90,85,77,85,35,82,3,4,M/M,Right,"2,069"
 
 Diogo Jota,Liverpool,ENG 1,adidas,87,LW,455K,96,86,79,90,62,82,4,5,H/H,Right,"2,253"
 
@@ -946,9 +946,9 @@ Sol Campbell,Icons,ICO,icon,87,CB,349K,82,44,58,55,87,87,2,3,L/M,Right,"1,771"
 
 Ciro Immobile,Latium,ITA 1,gold,87,ST,15.5K,86,87,67,81,39,77,3,4,H/M,Right,"2,018"
 
-Wojciech Szczesny,Piemonte Calcio,ITA 1,gold,87,GK,14K,86,82,73,88,49,87,1,3,M/M,Right,901
+Wojciech Szczesny,Juventus,ITA 1,gold,87,GK,14K,86,82,73,88,49,87,1,3,M/M,Right,901
 
-Paulo Dybala,Piemonte Calcio,ITA 1,gold,87,CF,16K,84,86,86,90,40,60,4,3,M/M,Left,"2,108"
+Paulo Dybala,Juventus,ITA 1,gold,87,CF,16K,84,86,86,90,40,60,4,3,M/M,Left,"2,108"
 
 Leon Goretzka,Bayern München,GER 1,gold,87,CM,16.3K,81,82,82,84,81,86,3,4,H/M,Right,"2,258"
 
@@ -1120,7 +1120,7 @@ Gregoire Defrel,Sassuolo,ITA 1,rare98,86,CAM,,91,84,81,88,45,64,4,3,H/M,Left,"2,
 
 Kevin Trapp,Eintracht Frankfurt,GER 1,goldif,86,GK,28.5K,87,84,83,88,52,86,1,4,M/M,Right,843
 
-Leonardo Bonucci,Piemonte Calcio,ITA 1,goldif,86,CB,25.5K,66,59,70,73,87,82,2,4,M/H,Right,"1,996"
+Leonardo Bonucci,Juventus,ITA 1,goldif,86,CB,25.5K,66,59,70,73,87,82,2,4,M/H,Right,"1,996"
 
 Felipe,Atlético de Madrid,ESP 1,goldif,86,CB,24.8K,64,43,60,64,87,86,2,3,L/H,Right,"1,806"
 
@@ -1130,7 +1130,7 @@ Mateus Uribe,FC Porto,POR 1,rare87,86,CM,,81,80,82,83,82,87,3,4,H/H,Right,"2,254
 
 Calvin Mac-Intosch,SC Cambuur,NED 1,rare87,86,CB,,82,54,67,75,83,86,2,3,M/M,Right,"1,984"
 
-Lucas Paqueta,Olympique Lyonnais,FRA 1,potmligue1,86,ST,,79,81,84,88,75,83,4,3,H/H,Left,"2,270"
+Lucas Paqueta,Lyon,FRA 1,potmligue1,86,ST,,79,81,84,88,75,83,4,3,H/H,Left,"2,270"
 
 Emiliano Martinez,Aston Villa,ENG 1,goldif,86,GK,27K,87,85,84,87,60,86,1,4,M/M,Right,"1,035"
 
@@ -1158,7 +1158,7 @@ Christopher Nkunku,RB Leipzig,GER 1,goldif,86,ST,51K,84,80,87,90,74,73,4,3,M/M,R
 
 Luis Alberto,Latium,ITA 1,goldif,86,CM,25.5K,66,79,89,87,59,61,4,3,M/M,Right,"2,048"
 
-Dejan Kulusevski,Piemonte Calcio,ITA 1,rulebreakers,86,RW,17.8K,93,81,82,89,33,81,4,4,H/M,Left,"2,077"
+Dejan Kulusevski,Juventus,ITA 1,rulebreakers,86,RW,17.8K,93,81,82,89,33,81,4,4,H/M,Left,"2,077"
 
 Jonathan Bamba,LOSC Lille,FRA 1,rulebreakers,86,LM,80K,93,81,89,87,44,65,4,4,H/H,Right,"2,148"
 
@@ -1242,7 +1242,7 @@ Antoine Griezmann,Atlético de Madrid,ESP 1,otw,86,ST,63.5K,81,86,86,88,53,73,4,
 
 Steven Berghuis,Ajax,NED 1,otw,86,RW,16.3K,86,87,88,87,41,72,4,3,M/M,Left,"2,144"
 
-Manuel Locatelli,Piemonte Calcio,ITA 1,otw,86,CDM,15K,67,77,84,82,83,83,3,4,M/H,Right,"2,180"
+Manuel Locatelli,Juventus,ITA 1,otw,86,CDM,15K,67,77,84,82,83,83,3,4,M/H,Right,"2,180"
 
 Denzel Dumfries,Inter,ITA 1,otw,86,RB,21K,85,64,71,77,82,93,2,3,H/M,Right,"2,078"
 
@@ -1314,7 +1314,7 @@ Jamie Vardy,Leicester City,ENG 1,gold,86,ST,11K,85,84,70,80,52,73,3,4,H/M,Right,
 
 Thiago,Liverpool,ENG 1,gold,86,CM,9.9K,63,72,86,90,70,66,5,3,M/M,Right,"2,153"
 
-Giorgio Chiellini,Piemonte Calcio,ITA 1,gold,86,CB,10.8K,68,46,60,59,89,85,2,3,M/H,Left,"1,836"
+Giorgio Chiellini,Juventus,ITA 1,gold,86,CB,10.8K,68,46,60,59,89,85,2,3,M/H,Left,"1,836"
 
 Kalidou Koulibaly,Napoli,ITA 1,gold,86,CB,10.8K,81,28,51,65,87,85,2,3,M/H,Right,"1,662"
 
@@ -1400,7 +1400,7 @@ Alessandro Florenzi,Milan,ITA 1,winterwildcard,85,RB,13K,86,81,83,84,84,78,3,3,H
 
 Francesco Acerbi,Latium,ITA 1,goldif,85,CB,20.5K,66,52,64,66,88,86,3,3,M/H,Left,"1,887"
 
-Juan Cuadrado,Piemonte Calcio,ITA 1,goldif,85,RB,23K,92,77,79,89,79,75,5,3,H/M,Right,"2,256"
+Juan Cuadrado,Juventus,ITA 1,goldif,85,RB,23K,92,77,79,89,79,75,5,3,H/M,Right,"2,256"
 
 Dodi Lukebakio,VfL Wolfsburg,GER 1,winterwildcard,85,RM,24.8K,96,84,82,91,40,70,4,3,M/L,Left,"2,104"
 
@@ -1442,7 +1442,7 @@ Kazuyoshi Miura,Yokohama FC,JPN 1,moments,85,ST,,87,86,80,84,29,73,3,4,H/L,Right
 
 Bukayo Saka,Arsenal,ENG 1,goldif,85,RM,20.5K,89,74,82,88,70,69,3,3,H/M,Left,"2,149"
 
-Giorgio Chiellini,Piemonte Calcio,ITA 1,flashback,85,CB,,80,47,72,66,86,86,2,3,M/H,Left,"1,959"
+Giorgio Chiellini,Juventus,ITA 1,flashback,85,CB,,80,47,72,66,86,86,2,3,M/H,Left,"1,959"
 
 Gelson Martins,AS Monaco,FRA 1,signature,85,RM,,97,79,77,90,58,68,5,3,H/H,Right,"2,155"
 
@@ -1468,7 +1468,7 @@ Florian Neuhaus,Borussia Mgladbach,GER 1,adidas,85,CM,12.5K,67,75,82,94,69,71,3,
 
 Reguilon,Tottenham Hotspur,ENG 1,adidas,85,LB,78K,96,62,79,82,82,74,3,3,H/H,Left,"2,110"
 
-Moussa Dembele,Olympique Lyonnais,FRA 1,adidas,85,ST,33.8K,94,85,71,81,37,89,3,3,M/L,Right,"2,078"
+Moussa Dembele,Lyon,FRA 1,adidas,85,ST,33.8K,94,85,71,81,37,89,3,3,M/L,Right,"2,078"
 
 Amadou Diawara,Roma FC,ITA 1,adidas,85,CDM,11.8K,73,61,92,85,81,81,3,3,M/H,Right,"2,141"
 
@@ -1480,7 +1480,7 @@ Lukas Klostermann,RB Leipzig,GER 1,rulebreakers,85,CB,84.5K,82,55,71,76,87,87,2,
 
 Jesus Corona,FC Porto,POR 1,rulebreakers,85,RM,27K,87,86,83,88,60,63,5,5,H/M,Right,"2,224"
 
-Anthony Lopes,Olympique Lyonnais,FRA 1,rulebreakers,85,GK,16.8K,89,82,65,96,67,84,1,2,M/M,Left,986
+Anthony Lopes,Lyon,FRA 1,rulebreakers,85,GK,16.8K,89,82,65,96,67,84,1,2,M/M,Left,986
 
 Darwin Machis,Granada CF,ESP 1,rulebreakers,85,LM,13.8K,85,84,80,87,41,86,4,4,H/M,Right,"2,122"
 
@@ -1568,7 +1568,7 @@ Pierre-Emerick Aubameyang,Arsenal,ENG 1,gold,85,ST,6.3K,89,85,75,80,35,69,4,4,M/
 
 Edinson Cavani,Manchester United,ENG 1,gold,85,ST,5.7K,66,86,70,76,51,79,3,4,H/H,Right,"2,040"
 
-Matthijs de Ligt,Piemonte Calcio,ITA 1,gold,85,CB,6.8K,73,59,60,69,84,87,2,3,M/H,Right,"1,919"
+Matthijs de Ligt,Juventus,ITA 1,gold,85,CB,6.8K,73,59,60,69,84,87,2,3,M/H,Right,"1,919"
 
 Marcus Rashford,Manchester United,ENG 1,gold,85,LM,8K,90,84,79,84,43,77,5,3,H/M,Right,"2,093"
 
@@ -1578,7 +1578,7 @@ Kasper Schmeichel,Leicester City,ENG 1,gold,85,GK,11K,84,78,80,90,47,83,1,3,M/M,
 
 Wilfred Ndidi,Leicester City,ENG 1,gold,85,CDM,6.9K,67,62,69,74,87,83,3,4,M/H,Right,"2,059"
 
-Leonardo Bonucci,Piemonte Calcio,ITA 1,gold,85,CB,6.2K,64,58,69,72,86,80,2,4,M/H,Right,"1,962"
+Leonardo Bonucci,Juventus,ITA 1,gold,85,CB,6.2K,64,58,69,72,86,80,2,4,M/H,Right,"1,962"
 
 Serge Gnabry,Bayern München,GER 1,gold,85,RM,6.2K,83,84,79,86,43,69,4,4,H/M,Right,"2,030"
 
@@ -1644,7 +1644,7 @@ Edin Visca,Istanbul Başakşehir FK,TUR 1,goldif,84,RM,17.3K,90,82,82,85,50,68,4
 
 Denzel Dumfries,Inter,ITA 1,goldif,84,RWB,18.8K,82,63,68,75,80,91,2,3,H/M,Right,"2,021"
 
-Federico Bernardeschi,Piemonte Calcio,ITA 1,goldif,84,RW,19.8K,85,77,86,89,65,70,4,3,H/M,Left,"2,169"
+Federico Bernardeschi,Juventus,ITA 1,goldif,84,RW,19.8K,85,77,86,89,65,70,4,3,H/M,Left,"2,169"
 
 Florian Kainz,1. FC Köln,GER 1,winterwildcard,84,LM,,86,85,83,87,48,72,4,5,H/M,Right,"2,145"
 
@@ -1684,7 +1684,7 @@ Vincenzo Grifo,SC Freiburg,GER 1,goldif,84,LM,18.8K,78,81,84,86,46,68,4,2,M/M,Ri
 
 Luka Jovic,Real Madrid,ESP 1,goldif,84,ST,22.3K,81,85,74,84,34,79,3,5,M/M,Right,"2,016"
 
-Karl Toko Ekambi,Olympique Lyonnais,FRA 1,totgsuel,84,LM,19.8K,91,87,79,85,31,77,3,4,H/L,Right,"2,061"
+Karl Toko Ekambi,Lyon,FRA 1,totgsuel,84,LM,19.8K,91,87,79,85,31,77,3,4,H/L,Right,"2,061"
 
 Ibrahim Sangare,PSV,NED 1,erepotm,84,CDM,,75,73,78,77,86,91,3,4,M/H,Right,"2,194"
 
@@ -1694,7 +1694,7 @@ Moussa Diaby,Bayer 04 Leverkusen,GER 1,goldif,84,RM,25K,97,71,77,89,44,56,4,2,H/
 
 Domenico Berardi,Sassuolo,ITA 1,goldif,84,RW,19K,82,83,83,87,38,71,4,3,M/M,Left,"2,066"
 
-Anthony Lopes,Olympique Lyonnais,FRA 1,goldif,84,GK,22K,86,81,72,89,65,82,1,2,M/M,Left,982
+Anthony Lopes,Lyon,FRA 1,goldif,84,GK,22K,86,81,72,89,65,82,1,2,M/M,Left,982
 
 Renato Sanches,LOSC Lille,FRA 1,signature,84,CM,532K,87,80,82,88,76,88,4,4,H/H,Right,"2,298"
 
@@ -1786,7 +1786,7 @@ Raphinha,Leeds United,ENG 1,goldif,84,RM,25K,92,79,79,86,51,75,4,4,H/H,Left,"2,1
 
 Cristian Romero,Tottenham Hotspur,ENG 1,goldif,84,CB,18.8K,78,48,55,64,85,86,3,2,L/H,Right,"1,859"
 
-Manuel Locatelli,Piemonte Calcio,ITA 1,goldif,84,CDM,26.8K,64,75,82,79,81,81,3,4,M/H,Right,"2,123"
+Manuel Locatelli,Juventus,ITA 1,goldif,84,CDM,26.8K,64,75,82,79,81,81,3,4,M/H,Right,"2,123"
 
 Kevin Trapp,Eintracht Frankfurt,GER 1,goldif,84,GK,28.8K,85,81,81,86,50,84,1,4,M/M,Right,839
 
@@ -1972,7 +1972,7 @@ Leonardo Spinazzola,Roma FC,ITA 1,gold,83,LWB,2.1K,92,64,73,80,78,71,4,4,H/M,Rig
 
 Sebastian Coates,Sporting CP,POR 1,gold,83,CB,850,68,49,55,63,84,87,2,3,M/M,Right,"1,735"
 
-Juan Cuadrado,Piemonte Calcio,ITA 1,gold,83,RB,4.5K,90,75,77,87,76,72,5,3,H/M,Right,"2,191"
+Juan Cuadrado,Juventus,ITA 1,gold,83,RB,4.5K,90,75,77,87,76,72,5,3,H/M,Right,"2,191"
 
 Gaya,Valencia CF,ESP 1,gold,83,LB,1.6K,83,61,77,80,79,73,4,3,H/M,Left,"2,044"
 
@@ -1990,7 +1990,7 @@ Ousmane Dembele,FC Barcelona,ESP 1,gold,83,RW,2.5K,93,77,77,86,36,56,5,5,H/M,Lef
 
 Henrikh Mkhitaryan,Roma FC,ITA 1,gold,83,CF,900,85,80,79,83,56,74,4,5,M/M,Right,"2,104"
 
-Alex Sandro,Piemonte Calcio,ITA 1,gold,83,LB,1.6K,81,65,77,79,78,79,3,3,H/M,Left,"2,108"
+Alex Sandro,Juventus,ITA 1,gold,83,LB,1.6K,81,65,77,79,78,79,3,3,H/M,Left,"2,108"
 
 Canales,Real Betis Balompié,ESP 1,gold,83,CM,1.9K,83,80,85,82,67,71,4,3,H/M,Left,"2,137"
 
@@ -2000,9 +2000,9 @@ Thomas Partey,Arsenal,ENG 1,gold,83,CM,1K,69,71,82,81,80,84,3,3,M/H,Right,"2,113
 
 Paulinho,Al Ahli,SAU 1,gold,83,CM,14K,72,81,77,81,80,85,4,4,H/H,Right,"2,216"
 
-Morata,Piemonte Calcio,ITA 1,gold,83,ST,850,82,80,72,81,31,77,3,4,M/M,Right,"1,923"
+Morata,Juventus,ITA 1,gold,83,ST,850,82,80,72,81,31,77,3,4,M/M,Right,"1,923"
 
-Arthur,Piemonte Calcio,ITA 1,gold,83,CM,950,69,67,84,88,72,70,4,3,M/M,Right,"2,105"
+Arthur,Juventus,ITA 1,gold,83,CM,950,69,67,84,88,72,70,4,3,M/M,Right,"2,105"
 
 Nick Pope,Burnley,ENG 1,gold,83,GK,1.3K,81,83,75,84,49,83,1,3,M/M,Right,869
 
@@ -2012,7 +2012,7 @@ Pierre-Emile Hojbjerg,Tottenham Hotspur,ENG 1,gold,83,CDM,950,60,71,76,76,81,82,
 
 Joel Matip,Liverpool,ENG 1,gold,83,CB,950,58,46,68,68,85,78,2,2,M/M,Right,"1,817"
 
-Federico Chiesa,Piemonte Calcio,ITA 1,gold,83,RW,1.6K,91,81,74,85,48,73,4,4,H/M,Right,"2,015"
+Federico Chiesa,Juventus,ITA 1,gold,83,RW,1.6K,91,81,74,85,48,73,4,4,H/M,Right,"2,015"
 
 Andrej Kramaric,TSG 1899 Hoffenheim,GER 1,gold,83,ST,850,71,86,76,86,30,71,4,4,M/M,Right,"1,999"
 
@@ -2096,7 +2096,7 @@ Hamari Traore,Stade Rennais,FRA 1,goldif,82,RB,17.5K,88,57,76,79,77,80,3,3,H/M,R
 
 Enis Bardhi,Levante UD,ESP 1,goldif,82,CM,29.3K,79,84,81,85,66,60,4,4,M/M,Right,"2,161"
 
-Xherdan Shaqiri,Olympique Lyonnais,FRA 1,goldif,82,CAM,16.5K,79,80,84,84,49,70,5,4,M/L,Left,"2,080"
+Xherdan Shaqiri,Lyon,FRA 1,goldif,82,CAM,16.5K,79,80,84,84,49,70,5,4,M/L,Left,"2,080"
 
 Sergi Darder,RCD Espanyol,ESP 1,goldif,82,CM,27K,70,78,82,82,74,75,4,3,M/M,Right,"2,141"
 
@@ -2148,7 +2148,7 @@ Paul Ebere Onuachu,Genk,BEL 1,goldif,82,ST,20.8K,75,81,67,74,48,87,3,2,H/M,Right
 
 Seko Fofana,RC Lens,FRA 1,goldif,82,CM,25.5K,80,76,77,82,78,83,3,4,H/H,Right,"2,121"
 
-Xherdan Shaqiri,Olympique Lyonnais,FRA 1,otw,82,RW,,79,80,84,84,49,70,5,4,M/L,Left,"2,080"
+Xherdan Shaqiri,Lyon,FRA 1,otw,82,RW,,79,80,84,84,49,70,5,4,M/L,Left,"2,080"
 
 Ismaila Sarr,Watford,ENG 1,goldif,82,RM,23.8K,95,82,73,84,26,72,4,2,H/M,Right,"1,917"
 
@@ -2206,7 +2206,7 @@ Neto,FC Barcelona,ESP 1,gold,82,GK,800,83,79,78,81,54,79,1,2,M/M,Right,933
 
 Martin Odegaard,Arsenal,ENG 1,gold,82,CAM,750,77,74,83,84,58,62,5,2,H/M,Left,"2,028"
 
-Manuel Locatelli,Piemonte Calcio,ITA 1,gold-nr,82,CDM,800,61,72,79,77,79,79,3,4,M/H,Right,"2,054"
+Manuel Locatelli,Juventus,ITA 1,gold-nr,82,CDM,800,61,72,79,77,79,79,3,4,M/H,Right,"2,054"
 
 Pau Torres,Villarreal CF,ESP 1,gold,82,CB,1.2K,71,38,67,70,84,80,2,3,M/H,Left,"1,822"
 
@@ -2258,7 +2258,7 @@ Miralem Pjanic,Beşiktaş,TUR 1,gold-nr,82,CM,900,65,68,83,81,75,67,3,4,M/M,Righ
 
 Jesus Corona,FC Porto,POR 1,gold,82,RM,950,83,67,79,85,74,60,5,5,H/M,Right,"2,117"
 
-Anthony Lopes,Olympique Lyonnais,FRA 1,gold,82,GK,800,84,78,70,86,63,80,1,2,M/M,Left,978
+Anthony Lopes,Lyon,FRA 1,gold,82,GK,800,84,78,70,86,63,80,1,2,M/M,Left,978
 
 Daley Blind,Ajax,NED 1,gold-nr,82,CB,850,45,64,82,79,83,72,3,3,H/M,Left,"2,042"
 
@@ -2520,7 +2520,7 @@ Manuel Lazzari,Latium,ITA 1,gold,81,RWB,850,92,62,77,82,70,65,3,3,H/H,Right,"1,9
 
 Thomas Delaney,Sevilla FC,ESP 1,gold,81,CDM,1K,75,71,74,74,83,82,2,4,L/H,Left,"2,137"
 
-Danilo,Piemonte Calcio,ITA 1,gold-nr,81,RB,1.4K,73,67,73,74,82,79,3,4,M/H,Right,"2,075"
+Danilo,Juventus,ITA 1,gold-nr,81,RB,1.4K,73,67,73,74,82,79,3,4,M/H,Right,"2,075"
 
 Darwin Machis,Granada CF,ESP 1,gold,81,LM,700,88,80,75,83,38,70,4,4,H/M,Right,"1,979"
 
@@ -2530,7 +2530,7 @@ Jonathan Viera,UD Las Palmas,ESP 2,gold,81,CAM,700,82,75,80,82,63,69,4,4,H/M,Rig
 
 Ruslan Malinovskyi,Bergamo Calcio,ITA 1,gold-nr,81,CF,850,74,80,83,81,64,79,4,4,M/M,Left,"2,143"
 
-Adrien Rabiot,Piemonte Calcio,ITA 1,gold,81,CM,700,76,74,76,80,76,79,3,3,M/M,Left,"2,084"
+Adrien Rabiot,Juventus,ITA 1,gold,81,CM,700,76,74,76,80,76,79,3,3,M/M,Left,"2,084"
 
 Joaquin,Real Betis Balompié,ESP 1,gold-nr,81,RM,550,68,80,84,81,44,55,4,3,H/M,Right,"1,910"
 
@@ -2606,7 +2606,7 @@ Edin Visca,Istanbul Başakşehir FK,TUR 1,gold,81,RM,700,87,78,78,82,47,64,4,4,H
 
 Paco Alcacer,Villarreal CF,ESP 1,gold,81,ST,700,77,84,69,81,35,61,3,4,M/L,Right,"1,923"
 
-Dejan Kulusevski,Piemonte Calcio,ITA 1,gold,81,RW,700,84,74,77,84,56,76,4,4,H/M,Left,"2,045"
+Dejan Kulusevski,Juventus,ITA 1,gold,81,RW,700,84,74,77,84,56,76,4,4,H/M,Left,"2,045"
 
 Jasper Cillessen,Valencia CF,ESP 1,gold-nr,81,GK,800,81,80,79,80,54,81,1,3,M/M,Right,926
 
@@ -2650,7 +2650,7 @@ Burak Yilmaz,LOSC Lille,FRA 1,gold-nr,81,ST,900,79,83,69,73,34,79,3,4,H/M,Right,
 
 Andy Delort,OGC Nice,FRA 1,gold,81,ST,700,84,82,73,75,37,85,3,3,H/H,Right,"2,002"
 
-Houssem Aouar,Olympique Lyonnais,FRA 1,gold,81,CM,900,75,75,81,85,66,71,4,3,H/L,Right,"2,089"
+Houssem Aouar,Lyon,FRA 1,gold,81,CM,900,75,75,81,85,66,71,4,3,H/L,Right,"2,089"
 
 Benjamin Andre,LOSC Lille,FRA 1,gold,81,CDM,950,67,64,74,75,80,85,3,3,H/H,Right,"2,065"
 
@@ -2662,7 +2662,7 @@ Steven Berghuis,Ajax,NED 1,gold-nr,81,RW,600,80,81,82,82,36,66,4,3,M/M,Left,"1,9
 
 Jose Fonte,LOSC Lille,FRA 1,gold-nr,81,CB,1.1K,32,46,62,63,83,77,2,3,M/H,Right,"1,688"
 
-Lucas Paqueta,Olympique Lyonnais,FRA 1,gold,81,CM,950,74,75,79,83,69,78,4,3,H/H,Left,"2,122"
+Lucas Paqueta,Lyon,FRA 1,gold,81,CM,950,74,75,79,83,69,78,4,3,H/H,Left,"2,122"
 
 Lucas Moura,Tottenham Hotspur,ENG 1,gold,81,RM,1K,90,79,70,86,43,68,4,4,H/M,Right,"2,034"
 
@@ -2752,7 +2752,7 @@ Ridle Baku,VfL Wolfsburg,GER 1,gold,80,RM,700,84,73,73,81,70,75,3,4,H/M,Right,"2
 
 Radja Nainggolan,Antwerp,BEL 1,gold,80,CAM,700,71,84,78,74,73,80,3,3,H/M,Right,"2,142"
 
-Aaron Ramsey,Piemonte Calcio,ITA 1,gold-nr,80,CM,600,66,70,81,83,66,66,3,3,M/M,Right,"2,042"
+Aaron Ramsey,Juventus,ITA 1,gold-nr,80,CM,600,66,70,81,83,66,66,3,3,M/M,Right,"2,042"
 
 Victor Osimhen,Napoli,ITA 1,gold,80,ST,700,88,80,63,75,39,81,3,4,H/M,Right,"1,908"
 
@@ -2832,7 +2832,7 @@ Xaver Schlager,VfL Wolfsburg,GER 1,gold,80,CDM,700,69,70,73,77,73,81,3,3,H/H,Lef
 
 Daniel Wass,Valencia CF,ESP 1,gold-nr,80,RB,600,74,77,80,77,76,76,3,3,M/M,Right,"2,131"
 
-Jason Denayer,Olympique Lyonnais,FRA 1,gold,80,CB,1.7K,83,43,67,71,81,81,2,3,M/H,Right,"1,840"
+Jason Denayer,Lyon,FRA 1,gold,80,CB,1.7K,83,43,67,71,81,81,2,3,M/H,Right,"1,840"
 
 Embarba,RCD Espanyol,ESP 1,gold,80,RM,700,83,77,78,79,55,72,4,4,H/H,Right,"2,054"
 
@@ -2854,7 +2854,7 @@ Joao Pedro,Cagliari,ITA 1,gold-nr,80,CF,650,72,78,77,81,41,74,4,4,H/M,Right,"1,9
 
 Martin Hinteregger,Eintracht Frankfurt,GER 1,gold-nr,80,CB,1.1K,70,70,67,61,81,81,2,3,M/M,Left,"1,999"
 
-Mattia Perin,Piemonte Calcio,ITA 1,gold,80,GK,700,80,80,71,82,57,79,1,3,M/M,Right,876
+Mattia Perin,Juventus,ITA 1,gold,80,GK,700,80,80,71,82,57,79,1,3,M/M,Right,876
 
 Jonny Evans,Leicester City,ENG 1,gold-nr,80,CB,700,52,32,61,60,83,77,2,4,M/H,Right,"1,662"
 
@@ -3008,7 +3008,7 @@ Davide Zappacosta,Bergamo Calcio,ITA 1,gold-nr,79,RWB,700,76,66,73,74,75,71,3,3,
 
 Benjamin Pavard,Bayern München,GER 1,gold-nr,79,RB,850,69,53,72,71,78,76,3,3,L/H,Right,"1,947"
 
-Xherdan Shaqiri,Olympique Lyonnais,FRA 1,gold-nr,79,RW,950,75,76,80,81,46,67,5,4,M/L,Left,"1,981"
+Xherdan Shaqiri,Lyon,FRA 1,gold-nr,79,RW,950,75,76,80,81,46,67,5,4,M/L,Left,"1,981"
 
 Antonio Candreva,Sampdoria,ITA 1,gold-nr,79,RM,600,72,78,79,80,61,62,4,4,M/M,Right,"2,008"
 
@@ -3054,7 +3054,7 @@ Owen Wijndal,AZ,NED 1,gold,79,LB,700,84,53,74,78,74,74,3,2,H/M,Left,"1,968"
 
 Luuk de Jong,FC Barcelona,ESP 1,gold-nr,79,ST,550,50,78,71,70,46,75,3,5,M/H,Right,"1,857"
 
-Moise Kean,Piemonte Calcio,ITA 1,gold-nr,79,ST,650,85,77,56,78,40,75,3,3,H/M,Right,"1,828"
+Moise Kean,Juventus,ITA 1,gold-nr,79,ST,650,85,77,56,78,40,75,3,3,H/M,Right,"1,828"
 
 Mousa Dembele,Guangzhou R&F,CHN 1,gold-nr,79,CM,800,70,68,76,85,73,77,4,2,H/H,Left,"2,050"
 
@@ -3074,11 +3074,11 @@ Mauro Arambarri,Getafe CF,ESP 1,gold-nr,79,CDM,700,47,60,72,72,77,76,3,3,M/M,Rig
 
 Ramy Bensebaini,Borussia Mgladbach,GER 1,gold-nr,79,LB,750,73,59,72,75,77,80,3,4,H/M,Left,"1,985"
 
-Bruno Guimaraes,Olympique Lyonnais,FRA 1,gold,79,CDM,750,68,63,78,78,73,75,3,3,M/H,Right,"2,001"
+Bruno Guimaraes,Lyon,FRA 1,gold,79,CDM,750,68,63,78,78,73,75,3,3,M/H,Right,"2,001"
 
 Montoro,Granada CF,ESP 1,gold-nr,79,CDM,500,45,64,75,72,75,70,3,3,M/M,Right,"1,875"
 
-Federico Bernardeschi,Piemonte Calcio,ITA 1,gold-nr,79,CAM,650,79,71,80,83,61,65,4,3,H/M,Left,"2,017"
+Federico Bernardeschi,Juventus,ITA 1,gold-nr,79,CAM,650,79,71,80,83,61,65,4,3,H/M,Left,"2,017"
 
 German,Granada CF,ESP 1,gold-nr,79,CB,650,49,40,59,56,81,79,2,2,M/H,Right,"1,599"
 
@@ -3388,7 +3388,7 @@ Laurent Koscielny,Girondins de Bordeaux,FRA 1,gold-nr,78,CB,900,54,43,63,65,79,7
 
 Matteo Pessina,Bergamo Calcio,ITA 1,gold-nr,78,CAM,650,70,70,74,78,67,72,3,2,M/M,Left,"1,939"
 
-Moussa Dembele,Olympique Lyonnais,FRA 1,gold-nr,78,ST,1.5K,78,77,63,73,30,82,3,3,M/L,Right,"1,842"
+Moussa Dembele,Lyon,FRA 1,gold-nr,78,ST,1.5K,78,77,63,73,30,82,3,3,M/L,Right,"1,842"
 
 David Garcia,CA Osasuna,ESP 1,gold-nr,78,CB,700,53,37,64,64,78,75,2,3,M/M,Right,"1,686"
 
@@ -3462,7 +3462,7 @@ Dusan Vlahovic,Fiorentina,ITA 1,gold-nr,78,ST,600,75,78,58,73,28,76,3,3,M/M,Left
 
 Roman Zobnin,Spartak Moskva,RUS 1,gold,78,CDM,700,76,64,74,77,76,72,4,3,H/H,Right,"1,996"
 
-Karl Toko Ekambi,Olympique Lyonnais,FRA 1,gold,78,LW,900,85,78,71,77,25,70,3,4,H/L,Right,"1,846"
+Karl Toko Ekambi,Lyon,FRA 1,gold,78,LW,900,85,78,71,77,25,70,3,4,H/L,Right,"1,846"
 
 Mario Rui,Napoli,ITA 1,gold-nr,78,LB,900,80,49,73,79,71,64,3,3,H/M,Left,"1,976"
 
@@ -3502,7 +3502,7 @@ Puertas,Granada CF,ESP 1,gold-nr,78,RM,500,78,76,72,77,44,75,3,3,H/H,Right,"1,91
 
 Angel,RCD Mallorca,ESP 1,gold-nr,78,ST,500,71,81,61,78,34,66,3,3,H/M,Right,"1,802"
 
-Maxence Caqueret,Olympique Lyonnais,FRA 1,gold-nr,78,CM,850,73,58,72,81,72,69,3,3,H/H,Right,"1,925"
+Maxence Caqueret,Lyon,FRA 1,gold-nr,78,CM,850,73,58,72,81,72,69,3,3,H/H,Right,"1,925"
 
 Anthony Nwakaeme,Trabzonspor,TUR 1,gold,78,LW,700,80,76,74,80,39,80,4,4,H/L,Right,"1,915"
 
@@ -3510,7 +3510,7 @@ Oriol Romeu,Southampton,ENG 1,gold-nr,78,CDM,650,41,44,62,65,80,81,2,3,L/H,Right
 
 Jaume Costa,RCD Mallorca,ESP 1,gold-nr,78,LB,500,73,61,71,73,77,68,3,3,H/H,Left,"1,943"
 
-Emerson,Olympique Lyonnais,FRA 1,gold-nr,78,LB,1.9K,80,63,70,78,75,63,3,2,H/M,Left,"1,965"
+Emerson,Lyon,FRA 1,gold-nr,78,LB,1.9K,80,63,70,78,75,63,3,2,H/M,Left,"1,965"
 
 Youssouf Fofana,AS Monaco,FRA 1,gold,78,CM,900,71,67,74,77,74,78,3,3,M/H,Right,"1,989"
 
@@ -3528,7 +3528,7 @@ Amin Younes,Eintracht Frankfurt,GER 1,gold-nr,78,CAM,800,74,68,74,86,38,59,4,2,H
 
 Lucas Olaza,Real Valladolid,ESP 2,gold-nr,78,LB,500,77,71,74,74,74,72,3,3,H/M,Left,"2,036"
 
-Marcelo,Olympique Lyonnais,FRA 1,gold-nr,78,CB,1.5K,42,46,60,56,78,85,2,2,L/H,Right,"1,685"
+Marcelo,Lyon,FRA 1,gold-nr,78,CB,1.5K,42,46,60,56,78,85,2,2,L/H,Right,"1,685"
 
 Matty Cash,Aston Villa,ENG 1,gold-nr,78,RB,750,81,63,68,73,72,66,3,3,H/H,Right,"1,906"
 
@@ -3538,7 +3538,7 @@ Roberto Soriano,Bologna,ITA 1,gold,78,CAM,700,69,75,78,79,67,71,4,4,M/M,Right,"2
 
 Julian Baumgartlinger,Bayer 04 Leverkusen,GER 1,gold-nr,78,CDM,700,57,49,70,69,77,79,2,3,M/H,Right,"1,856"
 
-Thiago Mendes,Olympique Lyonnais,FRA 1,gold,78,CDM,850,72,67,76,77,74,75,3,3,M/H,Right,"2,031"
+Thiago Mendes,Lyon,FRA 1,gold,78,CDM,850,72,67,76,77,74,75,3,3,M/H,Right,"2,031"
 
 Hector Bellerin,Real Betis Balompié,ESP 1,gold-nr,78,RB,600,83,51,69,77,73,65,3,2,H/L,Right,"1,885"
 
@@ -3558,7 +3558,7 @@ Stefan Ortega,Arminia Bielefeld,GER 1,gold,78,GK,700,73,72,86,85,52,74,1,4,M/M,R
 
 Pedro Neto,Wolverhampton Wanderers,ENG 1,gold-nr,78,LW,700,87,74,69,81,31,59,4,4,H/M,Left,"1,798"
 
-Leo Dubois,Olympique Lyonnais,FRA 1,gold-nr,78,RB,1.6K,72,59,75,73,76,74,3,4,H/M,Right,"1,974"
+Leo Dubois,Lyon,FRA 1,gold-nr,78,RB,1.6K,72,59,75,73,76,74,3,4,H/M,Right,"1,974"
 
 Cheikhou Kouyate,Crystal Palace,ENG 1,gold,78,CB,800,64,64,62,69,78,85,3,3,H/H,Right,"1,894"
 
@@ -3580,7 +3580,7 @@ Victor Moses,Spartak Moskva,RUS 1,gold-nr,78,RM,450,76,69,74,80,70,70,4,4,M/M,Ri
 
 Junior Moraes,Shakhtar Donetsk,UKR 1,gold-nr,78,ST,600,79,79,60,77,27,68,3,4,H/M,Right,"1,746"
 
-Rodrigo Bentancur,Piemonte Calcio,ITA 1,gold,78,CM,700,73,62,79,80,75,76,4,4,M/M,Right,"2,044"
+Rodrigo Bentancur,Juventus,ITA 1,gold,78,CM,700,73,62,79,80,75,76,4,4,M/M,Right,"2,044"
 
 Dennis Praet,Torino,ITA 1,gold-nr,78,CM,600,67,72,78,79,63,66,4,4,M/M,Right,"1,970"
 
@@ -3752,7 +3752,7 @@ Alexander Schwolow,Hertha BSC,GER 1,gold-nr,77,GK,700,76,75,66,80,37,76,1,3,M/M,
 
 Quaresma,Vitória Guimarães,POR 1,gold-nr,77,RW,400,72,71,78,84,24,60,5,4,H/L,Right,"1,838"
 
-Weston McKennie,Piemonte Calcio,ITA 1,gold,77,CM,700,81,71,74,76,76,83,3,3,H/H,Right,"2,109"
+Weston McKennie,Juventus,ITA 1,gold,77,CM,700,81,71,74,76,76,83,3,3,H/H,Right,"2,109"
 
 Matheus Pereira,Al Hilal,SAU 1,gold-nr,77,CAM,550,79,74,75,80,39,63,4,3,H/M,Left,"1,902"
 
@@ -3788,7 +3788,7 @@ Sokratis,Olympiacos,GRE 1,gold-nr,77,CB,500,63,53,53,60,78,80,2,2,L/H,Right,"1,7
 
 Jonathan Clauss,RC Lens,FRA 1,gold,77,RWB,800,85,66,70,76,67,71,3,3,H/H,Right,"1,945"
 
-Tino Kadewere,Olympique Lyonnais,FRA 1,gold-nr,77,RW,900,83,76,69,78,38,71,3,3,H/M,Right,"1,883"
+Tino Kadewere,Lyon,FRA 1,gold-nr,77,RW,900,83,76,69,78,38,71,3,3,H/M,Right,"1,883"
 
 Mattia Zaccagni,Latium,ITA 1,gold-nr,77,CF,800,78,71,75,80,60,68,4,4,H/M,Right,"1,937"
 
@@ -3850,7 +3850,7 @@ Sebastian Blanco,Portland Timbers,USA 1,gold-nr,77,LM,600,75,75,74,77,33,72,3,5,
 
 Santi Mina,RC Celta de Vigo,ESP 1,gold-nr,77,ST,500,75,77,69,76,49,72,3,3,H/L,Right,"1,938"
 
-Daniele Rugani,Piemonte Calcio,ITA 1,gold-nr,77,CB,850,59,40,55,63,79,72,2,3,L/M,Right,"1,646"
+Daniele Rugani,Juventus,ITA 1,gold-nr,77,CB,850,59,40,55,63,79,72,2,3,L/M,Right,"1,646"
 
 Stanislav Lobotka,Napoli,ITA 1,gold-nr,77,CM,700,63,63,76,78,69,64,4,4,M/H,Right,"1,909"
 
@@ -4092,7 +4092,7 @@ Salvi Sanchez,Cádiz CF,ESP 1,gold-nr,77,RM,500,89,70,74,76,39,53,3,3,H/M,Right,
 
 Camilo Vargas,Atlas,MEX 1,gold-nr,77,GK,450,76,72,69,78,44,75,1,3,M/M,Left,916
 
-Damien Da Silva,Olympique Lyonnais,FRA 1,gold-nr,77,CB,1.6K,50,37,59,55,78,78,2,4,M/H,Right,"1,649"
+Damien Da Silva,Lyon,FRA 1,gold-nr,77,CB,1.6K,50,37,59,55,78,78,2,4,M/H,Right,"1,649"
 
 Gustavo Cuellar,Al Hilal,SAU 1,gold-nr,77,CDM,600,71,51,67,68,75,81,3,3,M/H,Right,"1,871"
 
@@ -4396,7 +4396,7 @@ Fabio Borini,Fatih Karagümrük S.K.,TUR 1,gold-nr,76,LW,450,73,74,72,77,45,69,3
 
 Nikola Milenkovic,Fiorentina,ITA 1,gold-nr,76,CB,700,66,44,61,62,76,81,2,3,M/H,Right,"1,671"
 
-Islam Slimani,Olympique Lyonnais,FRA 1,gold-nr,76,ST,1.6K,47,76,73,69,47,80,2,3,H/H,Right,"1,855"
+Islam Slimani,Lyon,FRA 1,gold-nr,76,ST,1.6K,47,76,73,69,47,80,2,3,H/H,Right,"1,855"
 
 Mykola Shaparenko,Dynamo Kyiv,UKR 1,gold-nr,76,CM,450,77,71,76,78,64,58,3,3,M/M,Right,"1,937"
 
@@ -4432,7 +4432,7 @@ Sofiane Feghouli,Galatasaray,TUR 1,gold-nr,76,RM,450,71,71,75,79,34,65,4,3,M/L,R
 
 Benoit Badiashile,AS Monaco,FRA 1,gold-nr,76,CB,900,62,39,63,58,77,76,2,3,M/H,Left,"1,663"
 
-Mattia De Sciglio,Piemonte Calcio,ITA 1,gold-nr,76,RB,850,68,46,70,74,75,69,3,4,M/M,Right,"1,870"
+Mattia De Sciglio,Juventus,ITA 1,gold-nr,76,RB,850,68,46,70,74,75,69,3,4,M/M,Right,"1,870"
 
 Brandon Mechele,Club Brugge,BEL 1,gold-nr,76,CB,600,62,38,50,54,80,76,2,4,M/H,Right,"1,580"
 
@@ -5458,7 +5458,7 @@ Nathaniel Clyne,Crystal Palace,ENG 1,gold-nr,75,RB,700,69,60,71,75,74,63,3,2,M/M
 
 Yvan Neyou,AS Saint-Étienne,FRA 1,gold-nr,75,CDM,650,65,60,67,76,73,67,2,3,M/M,Right,"1,861"
 
-Jeff Reine-Adelaide,Olympique Lyonnais,FRA 1,gold-nr,75,CM,900,76,70,72,80,54,68,4,3,H/M,Right,"1,896"
+Jeff Reine-Adelaide,Lyon,FRA 1,gold-nr,75,CM,900,76,70,72,80,54,68,4,3,H/M,Right,"1,896"
 
 Jo Hyeon Woo,Ulsan Hyundai,KOR 1,gold-nr,75,GK,350,76,71,60,81,51,73,1,3,M/M,Right,806
 
@@ -6594,7 +6594,7 @@ Ali Gholizadeh,Charleroi,BEL 1,silver,74,LM,550,77,67,68,77,47,70,4,3,M/M,Left,"
 
 Julio Tavares,Al Faisaly,SAU 1,silver,74,ST,650,58,75,56,69,30,85,3,3,H/M,Right,"1,710"
 
-Luca Pellegrini,Piemonte Calcio,ITA 1,silver,74,LB,2K,83,54,64,72,69,61,2,4,H/M,Left,"1,806"
+Luca Pellegrini,Juventus,ITA 1,silver,74,LB,2K,83,54,64,72,69,61,2,4,H/M,Left,"1,806"
 
 Kodjo Fo-Doh Laba,Al Ain FC,UAE 1,silver,74,ST,350,78,74,62,69,25,77,3,4,H/L,Right,"1,771"
 
@@ -7364,7 +7364,7 @@ Odil Akhmedov,Shijiazhuang Ever Bright F.C.,CHN 1,silver,73,CM,1.4K,67,70,72,71,
 
 Matt Phillips,West Bromwich Albion,ENG 2,silver,73,RW,700,78,70,70,73,43,69,4,4,H/M,Right,"1,802"
 
-Rayan Cherki,Olympique Lyonnais,FRA 1,silver,73,RW,1.1K,72,67,68,81,21,58,5,5,H/L,Left,"1,666"
+Rayan Cherki,Lyon,FRA 1,silver,73,RW,1.1K,72,67,68,81,21,58,5,5,H/L,Left,"1,666"
 
 Pawel Kieszek,Wisła Kraków,POL 1,silver-nr,73,GK,200,72,71,68,74,51,73,1,2,M/M,Right,864
 
@@ -8238,7 +8238,7 @@ Richard Schunke,Independiente del Valle,CON1,libertadores,72,CB,850,59,34,52,55,
 
 Luquinha,Portimonense,POR 1,silver,72,CAM,650,76,59,74,76,34,47,3,3,M/L,Right,"1,714"
 
-Sinaly Diomande,Olympique Lyonnais,FRA 1,silver-nr,72,CB,1.5K,63,46,60,60,71,74,2,3,M/M,Right,"1,698"
+Sinaly Diomande,Lyon,FRA 1,silver-nr,72,CB,1.5K,63,46,60,60,71,74,2,3,M/M,Right,"1,698"
 
 Sam Clucas,Stoke City,ENG 2,silver,72,CM,900,70,70,71,70,66,73,3,4,M/H,Left,"1,935"
 
@@ -8418,7 +8418,7 @@ Tiago Sa,Braga,POR 1,silver-nr,72,GK,700,72,71,67,73,44,71,1,3,M/M,Right,813
 
 Sivera,Deportivo Alavés,ESP 1,silver-nr,72,GK,2.3K,72,70,68,72,57,73,1,3,M/M,Right,920
 
-Carlo Pinsoglio,Piemonte Calcio,ITA 1,silver-nr,72,GK,1K,74,70,58,76,42,74,1,2,M/M,Left,766
+Carlo Pinsoglio,Juventus,ITA 1,silver-nr,72,GK,1K,74,70,58,76,42,74,1,2,M/M,Left,766
 
 Ben Gibson,Norwich City,ENG 1,silver,72,CB,3.8K,53,29,49,52,73,68,2,3,L/M,Left,"1,465"
 
@@ -8882,7 +8882,7 @@ Tristan Dingome,ESTAC Troyes,FRA 1,silver-nr,72,CM,1.4K,63,64,72,74,66,68,3,3,M/
 
 Ben Gibson,Norwich City,ENG 1,silver,72,CB,3.8K,53,29,49,52,73,68,2,3,L/M,Left,"1,465"
 
-Carlo Pinsoglio,Piemonte Calcio,ITA 1,silver-nr,72,GK,1K,74,70,58,76,42,74,1,2,M/M,Left,766
+Carlo Pinsoglio,Juventus,ITA 1,silver-nr,72,GK,1K,74,70,58,76,42,74,1,2,M/M,Left,766
 
 Sivera,Deportivo Alavés,ESP 1,silver-nr,72,GK,2.3K,72,70,68,72,57,73,1,3,M/M,Right,920
 
@@ -9488,7 +9488,7 @@ Ale Diez,UD Las Palmas,ESP 2,silver-nr,71,RB,350,82,38,61,68,63,64,2,3,H/M,Right
 
 Jesus Angulo,Guadalajara,MEX 1,silver-nr,71,LM,650,78,64,69,71,46,62,3,3,H/L,Left,"1,762"
 
-Pape Cheikh Diop,Olympique Lyonnais,FRA 1,silver-nr,71,CDM,3.3K,75,57,66,68,65,76,2,3,M/M,Right,"1,804"
+Pape Cheikh Diop,Lyon,FRA 1,silver-nr,71,CDM,3.3K,75,57,66,68,65,76,2,3,M/M,Right,"1,804"
 
 Jose Joaquin Martinez,Cruz Azul,MEX 1,silver-nr,71,RB,2K,79,57,69,71,64,70,3,3,H/H,Right,"1,852"
 
@@ -9912,7 +9912,7 @@ Majeed Ashimeru,Anderlecht,BEL 1,silver,71,CM,700,74,65,69,75,61,66,3,3,M/M,Righ
 
 Son Jun Ho,Shandong Luneng Taishan,CHN 1,silver-nr,71,CDM,1K,61,62,68,65,65,73,3,3,M/H,Right,"1,837"
 
-Julian Pollersbeck,Olympique Lyonnais,FRA 1,silver-nr,71,GK,1.2K,73,66,72,73,27,70,1,3,M/M,Right,759
+Julian Pollersbeck,Lyon,FRA 1,silver-nr,71,GK,1.2K,73,66,72,73,27,70,1,3,M/M,Right,759
 
 Kevin N'Doram,FC Metz,FRA 1,silver-nr,71,CDM,1.1K,62,48,60,68,69,79,2,2,H/H,Right,"1,742"
 
@@ -10110,7 +10110,7 @@ Juanma,CF Fuenlabrada,ESP 2,silver,71,CB,450,63,50,58,46,70,79,2,3,H/H,Left,"1,7
 
 Nicusor Bancu,Universitatea Craiova,ROM 1,silver,71,LB,450,77,66,67,72,65,71,2,2,H/M,Left,"1,901"
 
-Henrique,Olympique Lyonnais,FRA 1,silver-nr,71,LB,2.4K,76,45,61,70,68,65,3,3,H/M,Left,"1,679"
+Henrique,Lyon,FRA 1,silver-nr,71,LB,2.4K,76,45,61,70,68,65,3,3,H/M,Left,"1,679"
 
 Kellyn Acosta,Colorado Rapids,USA 1,silver-nr,71,CDM,650,76,67,69,72,66,77,3,5,M/M,Right,"1,984"
 
@@ -20606,7 +20606,7 @@ Tobias Salquist,,DEN 1,silver-nr,65,CB,200,61,42,50,51,63,74,2,4,M/M,Right,"1,50
 
 Trova Boni,Belenenses,POR 1,silver-nr,65,CB,500,55,35,48,53,64,70,2,3,M/M,Right,"1,448"
 
-Castello Lukeba,Olympique Lyonnais,FRA 1,silver-nr,65,CB,2K,66,35,52,56,64,65,2,2,M/M,Left,"1,512"
+Castello Lukeba,Lyon,FRA 1,silver-nr,65,CB,2K,66,35,52,56,64,65,2,2,M/M,Left,"1,512"
 
 Franco Baldasarra,Club Atletico Platense,ARG 1,silver-nr,65,CM,250,67,58,63,64,60,64,2,3,M/M,Right,"1,700"
 
@@ -20766,7 +20766,7 @@ Cheick Timite,CF Fuenlabrada,ESP 2,silver,65,ST,350,85,60,55,69,35,66,2,3,H/L,Ri
 
 Morillas,UD Ibiza,ESP 2,silver-nr,65,LB,200,65,45,56,57,64,76,2,2,M/M,Left,"1,643"
 
-Lenny Pintor,Olympique Lyonnais,FRA 1,silver-nr,65,RW,2.5K,80,65,54,69,27,53,3,3,M/M,Right,"1,546"
+Lenny Pintor,Lyon,FRA 1,silver-nr,65,RW,2.5K,80,65,54,69,27,53,3,3,M/M,Right,"1,546"
 
 Andrei Tofan,FC Argeș,ROM 1,silver-nr,65,RB,200,75,42,57,49,60,64,2,2,M/H,Right,"1,523"
 
@@ -23584,7 +23584,7 @@ Jeppe Okkels,IF Elfsborg,SWE 1,bronze,64,LW,200,82,58,56,65,26,61,3,3,H/M,Right,
 
 Mateusz Mak,Stal Mielec,POL 1,bronze,64,RM,250,83,61,59,66,44,56,3,3,H/M,Right,"1,704"
 
-Habib Keita,Olympique Lyonnais,FRA 1,bronze,64,CM,1.2K,72,56,60,68,53,54,3,2,M/M,Left,"1,626"
+Habib Keita,Lyon,FRA 1,bronze,64,CM,1.2K,72,56,60,68,53,54,3,2,M/M,Left,"1,626"
 
 Ahmet Engin,Kasımpaşa,TUR 1,bronze,64,RM,700,79,53,56,65,38,57,3,3,M/M,Right,"1,551"
 
@@ -27674,7 +27674,7 @@ Benjamin Bertrand,Pau FC,FRA 2,bronze-nr,63,GK,200,68,61,54,65,45,59,1,2,M/M,Lef
 
 Lars Kramer,Viborg FF,DEN 1,bronze-nr,63,CB,200,54,34,47,48,62,73,2,3,M/M,Right,"1,386"
 
-Florent Da Silva,Olympique Lyonnais,FRA 1,bronze,63,CM,1.2K,66,52,66,68,49,57,3,3,M/M,Right,"1,641"
+Florent Da Silva,Lyon,FRA 1,bronze,63,CM,1.2K,66,52,66,68,49,57,3,3,M/M,Right,"1,641"
 
 Helder Tavares,FC Voluntari,ROM 1,bronze-nr,63,CDM,200,59,55,58,60,61,67,2,2,M/H,Right,"1,658"
 
@@ -31016,7 +31016,7 @@ Leon Davies,Cambridge United,ENG 4,bronze-nr,60,RM,200,80,45,55,56,53,60,2,3,M/M
 
 Armel Zohouri,FC Lausanne-Sport,CHE 1,bronze-nr,60,RB,200,69,30,53,59,54,61,2,2,M/M,Right,"1,470"
 
-Malcolm Barcola,Olympique Lyonnais,FRA 1,bronze-nr,60,GK,1.2K,62,57,53,63,24,61,1,3,M/M,Right,585
+Malcolm Barcola,Lyon,FRA 1,bronze-nr,60,GK,1.2K,62,57,53,63,24,61,1,3,M/M,Right,585
 
 Raphael Diarra,Oldham Athletic,ENG 4,bronze-nr,60,CB,200,44,29,45,43,61,63,2,2,M/M,Right,"1,314"
 
@@ -32392,7 +32392,7 @@ Luis Angel Flores,Club Bolívar,ARG 1,sudamericana,59,RW,200,64,55,53,60,24,44,2
 
 Lukasz Lakomy,Zagłębie Lubin,POL 1,bronze-nr,59,CDM,200,66,46,52,54,55,65,2,2,H/H,Right,"1,475"
 
-Titouan Thomas,Olympique Lyonnais,FRA 1,bronze-nr,59,CM,1.4K,55,51,57,59,56,64,3,3,M/M,Right,"1,543"
+Titouan Thomas,Lyon,FRA 1,bronze-nr,59,CM,1.4K,55,51,57,59,56,64,3,3,M/M,Right,"1,543"
 
 Julius Langfeld,TSV Havelse,GER 3,bronze-nr,59,RWB,200,70,54,52,58,53,63,2,2,H/M,Right,"1,514"
 
