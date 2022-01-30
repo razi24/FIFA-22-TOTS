@@ -36,3 +36,6 @@ Data explanation:
  'npxG' - Amount of non penalty expected goals for a player to score (statistical measurement of the quality of goalscoring chances and the likelihood of them being scored)
  'xGChain' - xGchain measures expected goals after a possession in which the player is involved
  'xGBuildup' - xGBuildup designed to reward players who are integral parts of their team’s buildup play
+ 'Team position'-player's team position in the end of the season 
+ 'Team Goals for'-amount of goals that the player's team scored
+ 'Team Goals against'-amount of goals that the player's team conceded
